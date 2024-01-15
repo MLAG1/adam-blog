@@ -1,1 +1,3 @@
-Bienvenidos a mi cuenta de GitHub
+---
+img: post-7.jpg # Add image post (optional)
+---
