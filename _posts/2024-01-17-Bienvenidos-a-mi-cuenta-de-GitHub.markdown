@@ -7,7 +7,7 @@ img: post-7.jpg # Add image post (optional)
 tags: [Blog, Paisajess]
 author: Laura G # Add name author (optional)
 ---
-Se pueden observar dos bonitas fotografias de paisajes del norte de Navarra.
+Se puede observar una bonita fotografía de una paisaje del norte de Navarra.
 
 ![paisaje]({{site.baseurl}}/assets/img/paisaje.jpg)
 
